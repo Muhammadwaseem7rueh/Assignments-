@@ -1,3 +1,5 @@
+#bills Assignment 
+#parent class
 class main:
 
     def __bills(self):
@@ -32,7 +34,7 @@ class main:
 
             self.__wheat=wheat2
 
-
+#Child class
 
 class student(main):
 
